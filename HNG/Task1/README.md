@@ -1,0 +1,1 @@
+This is an HNG internship task, the very first in the internship, which is to host and develop a web page using HTML,CSS and Javascript that showcases specific personal an real-time data attributes.

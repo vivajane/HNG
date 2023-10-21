@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: antiquewhite;
+}
+div{
+    width: auto;
+    padding-left: 10em;
+    margin-left: 5em;
+
+}
+img{
+    display: block;
+    width: 400px;
+    height: auto;
+    padding-left: 5em;
+}
+
+h1{
+    margin: 1em auto;
+    font-style: italic;
+    padding-left: 3em;
+}
+aside, section{
+    padding-left: 5em;
+}
+aside{
+    margin: 2em auto;
+    color: brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+aside p{
+    margin: 2em auto;
+}
+section{
+    color: rgb(75, 57, 92);
+    padding: 20px auto;
+
+}
+#repo-link:hover{
+    background-color: rgb(72, 107, 107);
+    border: 1px solid black;
+ 
+}
+#repo-link{
+    text-decoration: none;
+    margin: 2em auto;
+    display: inline-block;
+    background-color: rgb(36, 36, 39);
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+}
